@@ -1,4 +1,4 @@
-## LEM
+## LEM: Latent Emotion Memory Network
 
 Codes for the AAAI 2020 paper [Latent Emotion Memory for Multi-Label Emotion Classification](https://ojs.aaai.org/index.php/AAAI/article/view/6271).
 
